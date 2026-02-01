@@ -1,9 +1,9 @@
 # 👋 Hi, I'm **Anzer** 👨‍💻
 ## 🔥 About Me
-* 💻 Passionate **Full Stack Developer** with strong backend expertise
-* 🌐 Experienced in building **scalable, secure, and real-time web applications**
-* ⚙️ Proficient with **.NET, React, Node.js & modern databases**
-* 🤝 Strong in **team leadership, problem-solving & agile workflows**
+* 💻 Full Stack Developer focused on backend and API development
+* 🌐 Work on scalable, secure, and real-time web applications
+* ⚙️ Hands-on with .NET, React, Node.js, and modern databases
+* 🤝 Involved in team collaboration, problem-solving, and agile workflows
 
 ## 💻 Tech Stack
 ### 🧠 Backend & APIs
